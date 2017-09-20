@@ -12,6 +12,7 @@ gem 'pry-rails'
 gem 'annotate'
 gem 'faker'
 gem 'factory_girl'
+gem 'jquery-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
